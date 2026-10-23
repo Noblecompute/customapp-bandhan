@@ -1,0 +1,107 @@
+{
+  "currentCount": 7,
+  "timestamp": "2026-10-23T09:52:43.472Z",
+  "data": {
+    "currentCount": 7,
+    "timestamp": "2026-10-23T09:52:43.472Z",
+    "brand": {
+      "brand_name": "URBAN EDGE",
+      "brand_tagline": "Own Your Edge.",
+      "brand_logo": "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/file1.png"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "category_name": "Home",
+        "category_image": "",
+        "link": ""
+      }
+    ],
+    "hero": [
+      {
+        "title": "",
+        "link": "",
+        "image": "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/file2.jpg",
+        "desktop_image": "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/file2.jpg",
+        "mobile_image": "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/file3.jpg",
+        "desktop_fit_mode": "contain",
+        "mobile_fit_mode": "contain",
+        "view_mode": "auto",
+        "category": "Home"
+      },
+      {
+        "title": "",
+        "link": "",
+        "image": "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/file4.jpg",
+        "desktop_image": "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/file4.jpg",
+        "mobile_image": "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/file5.jpg",
+        "desktop_fit_mode": "contain",
+        "mobile_fit_mode": "contain",
+        "view_mode": "auto",
+        "category": "Home"
+      },
+      {
+        "title": "",
+        "link": "",
+        "image": "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/file6.jpg",
+        "desktop_image": "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/file6.jpg",
+        "mobile_image": "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/file7.jpg",
+        "desktop_fit_mode": "contain",
+        "mobile_fit_mode": "contain",
+        "view_mode": "auto",
+        "category": "Home"
+      }
+    ],
+    "instagram": [],
+    "news": [
+      {
+        "headline": "Buy 2 Get 250 Rs Off | Use Code : B2G250",
+        "link": ""
+      },
+      {
+        "headline": "Flat 10% OFF on your 1st Order | Use Code : FIRST10",
+        "link": ""
+      },
+      {
+        "headline": "Buy 3 Get 500 Rs Off | Use Code : B3G500",
+        "link": ""
+      }
+    ],
+    "story": [],
+    "topics": [],
+    "footer": {
+      "footer_company": "",
+      "footer_address": "",
+      "footer_phone": "",
+      "footer_email": "",
+      "footer_hours": "",
+      "footer_copyright": "",
+      "footer_tagline": "",
+      "company_links": [],
+      "policy_links": [],
+      "social_links": {
+        "facebook": "",
+        "instagram": "",
+        "youtube": "",
+        "whatsapp": "",
+        "twitter": ""
+      }
+    },
+    "subpages": [],
+    "showcase": [],
+    "NewArrival": [],
+    "Mix": []
+  },
+  "filename": "2026-10-23-095243-configuration.json",
+  "userEmail": "nitikesh@tambnick25.onmicrosoft.com",
+  "userName": "nitikesh",
+  "organizationName": "bandhan",
+  "organizationSlug": "bandhan",
+  "workspaceType": "organization",
+  "github": {
+    "repository": "https://github.com/Noblecompute/customapp-bandhan",
+    "branch": "main",
+    "publishedAt": "2026-10-23T09:52:57.308Z",
+    "mediaBaseUrl": "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/"
+  }
+}
