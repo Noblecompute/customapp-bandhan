@@ -1,9 +1,9 @@
 {
-  "currentCount": 30,
-  "timestamp": "2026-10-23T10:22:03.386Z",
+  "currentCount": 41,
+  "timestamp": "2026-10-23T10:46:44.404Z",
   "data": {
-    "currentCount": 30,
-    "timestamp": "2026-10-23T10:22:03.386Z",
+    "currentCount": 41,
+    "timestamp": "2026-10-23T10:46:44.404Z",
     "brand": {
       "brand_name": "URBAN EDGE",
       "brand_tagline": "Own Your Edge.",
@@ -19,7 +19,7 @@
       {
         "id": 1792749763143,
         "category_name": "CHAIN TREND",
-        "category_image": "",
+        "category_image": "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/file31.webp",
         "link": ""
       },
       {
@@ -107,21 +107,21 @@
     "story": [],
     "topics": [],
     "footer": {
-      "footer_company": "",
-      "footer_address": "",
-      "footer_phone": "",
-      "footer_email": "",
-      "footer_hours": "",
-      "footer_copyright": "",
-      "footer_tagline": "",
+      "footer_company": "URBAN EDGE Pvt. Ltd.",
+      "footer_address": "Lotus Corporate Park Wing G02 - 1502, Ram Mandir Lane, off Western Express Highway, Goregaon, Mumbai, 400063",
+      "footer_phone": "+919004580603",
+      "footer_email": "tambenick25@gmail.com",
+      "footer_hours": "Mon - Sun : 10:00 AM - 06:00 PM",
+      "footer_copyright": "A copyright notice is a short line of text that lets the public know that your work is protected by copyright law and is not to be copied.",
+      "footer_tagline": "Own Your Edge.",
       "company_links": [],
       "policy_links": [],
       "social_links": {
-        "facebook": "",
-        "instagram": "",
-        "youtube": "",
-        "whatsapp": "",
-        "twitter": ""
+        "facebook": "https://www.facebook.com/powerlookofficial",
+        "instagram": "https://www.instagram.com/powerlookofficial",
+        "youtube": "https://www.youtube.com/@powerlook6252",
+        "whatsapp": "https://wa.me/919004580603",
+        "twitter": "https://www.powerlook.in/"
       }
     },
     "subpages": [
@@ -184,8 +184,8 @@
         "id": 1792750147622,
         "name": "Brown Embroidered Patch Linen Blend Shirt",
         "category": "LINEN COLLECTION",
-        "price": "",
-        "discount_price": "",
+        "price": "1999",
+        "discount_price": "1099",
         "description": "Brown Linen Blend Shirt featuring stylish embroidered patches for a premium, modern look. Perfect for casual outings and everyday wear.",
         "photos": [
           "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/file18.webp",
@@ -203,10 +203,10 @@
       },
       {
         "id": 1792750148998,
-        "name": "",
-        "category": "Home",
-        "price": "",
-        "discount_price": "",
+        "name": "Brown Linen Blend Embroidery Shirt",
+        "category": "DATE READY",
+        "price": "1599",
+        "discount_price": "1500",
         "description": "Light Blue Linen Blend Shirt featuring a clean, elegant design for a fresh and sophisticated look. Perfect for casual outings and everyday wear.",
         "photos": [
           "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/file24.webp",
@@ -225,12 +225,38 @@
       },
       {
         "id": 1792750149230,
-        "name": "",
-        "category": "Home",
-        "price": "",
-        "discount_price": "",
-        "description": "",
-        "photos": [],
+        "name": "Blue Printed Stripe Shirt",
+        "category": "LINEN COLLECTION",
+        "price": "1599",
+        "discount_price": "1499",
+        "description": "Blue Printed Stripe Shirt featuring a modern striped pattern for a smart, stylish look. Perfect for casual outings and everyday wear.",
+        "photos": [
+          "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/file32.webp",
+          "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/file33.webp",
+          "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/file34.webp",
+          "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/file35.webp",
+          "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/file36.webp"
+        ],
+        "is_category_cover": false,
+        "is_showcase": false,
+        "is_new_arrival": false,
+        "is_mix": false,
+        "is_enabled": true
+      },
+      {
+        "id": 1792752146464,
+        "name": "Blue Printed Stripe Shirt",
+        "category": "DATE READY",
+        "price": "1599",
+        "discount_price": "1499",
+        "description": "Blue Printed Stripe Shirt featuring a modern striped pattern for a smart, stylish look. Perfect for casual outings and everyday wear.",
+        "photos": [
+          "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/file37.webp",
+          "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/file38.webp",
+          "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/file39.webp",
+          "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/file40.webp",
+          "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/file41.webp"
+        ],
         "is_category_cover": false,
         "is_showcase": false,
         "is_new_arrival": false,
@@ -242,7 +268,7 @@
     "NewArrival": [],
     "Mix": []
   },
-  "filename": "2026-10-23-102203-configuration.json",
+  "filename": "2026-10-23-104644-configuration.json",
   "userEmail": "nitikesh@tambnick25.onmicrosoft.com",
   "userName": "nitikesh",
   "organizationName": "bandhan",
@@ -251,7 +277,7 @@
   "github": {
     "repository": "https://github.com/Noblecompute/customapp-bandhan",
     "branch": "main",
-    "publishedAt": "2026-10-23T10:22:04.605Z",
+    "publishedAt": "2026-10-23T10:46:56.948Z",
     "mediaBaseUrl": "https://raw.githubusercontent.com/Noblecompute/customapp-bandhan/main/media/"
   }
 }
